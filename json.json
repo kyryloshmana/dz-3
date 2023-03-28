@@ -1,0 +1,42 @@
+{
+  "studentId": "12345",
+  "name": "Kyrylo Shmana",
+  "phoneNumber": "380930000000",
+  "birthday": "1997-08-03",
+  "address": {
+    "street": "Kosmonavtiv 27",
+    "suite": "41",
+    "cyty": "Chernihiv",
+    "zipcode": "14000"
+  },
+  "dateOfEnrollment": "2022-08-15T00:00:00",
+  "departmentID": 123,
+  "departmentName": "Computer engineer",
+  "formOfEducation": "Free",
+  "exemption": true,
+  "currentYearOfStudy": 1,
+  "classmateId": [
+    "34343",
+    "43243"
+  ],
+  "teaching": [
+    {
+      "course": "OOP",
+      "courseId": "36598",
+      "author": "Petro Ivanov",
+      "semester": 1,
+      "examDate": "2023-05-15T10:00:00",
+      "class": 401,
+      "examGrade": null
+    },
+    {
+      "course": "Computer science",
+      "courseId": "78541",
+      "author": "Taras Kovel",
+      "semester": 1,
+      "examDate": "2023-05-19T10:00:00",
+      "class": 307,
+      "examGrade": null
+    }
+  ]
+}

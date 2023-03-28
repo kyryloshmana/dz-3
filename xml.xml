@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
+	<studentId>12345</studentId>
+	<name>Kyrylo Shmana</name>
+	<phoneNumber>380930000000</phoneNumber>
+	<birthday>1997-08-03</birthday>
+	<addres>
+		<street>Kosmonavtiv 27</street>
+		<suite>41</suite>
+		<city>Chernihiv</city>
+		<zipcode>14000</zipcode>
+	</addres>
+	<dateOfEnrollment>2022-08-15T00:00:00</dateOfEnrollment>
+	<departmentID>123</departmentID>
+	<departmentName>Computer engineer</departmentName>
+	<formOfEducation>Free</formOfEducation>
+	<exemption>true</exemption>
+	<currentYearOfStudy>1</currentYearOfStudy>
+	<classmatesId>
+		<classmateId>34343</classmateId>
+		<classmateId>43243</classmateId>
+	</classmatesId>
+	<teachings>
+		<teaching>
+			<course>OOP</course>
+			<courseId>36598</courseId>
+			<author>Petro Ivanov</author>
+			<semester>1</semester>
+			<examDate>2023-05-15T10:00:00</examDate>
+			<class>401</class>
+			<examGrade xsi:nil="true"/>
+		</teaching>	
+		<teaching>
+			<course>Computer science</course>
+			<courseId>78541</courseId>
+			<author>Taras Kovel</author>
+			<semester>1</semester>
+			<examDate>2023-05-19T10:00:00</examDate>
+			<class>307</class>
+			<examGradexsi xsi:nil="true"/>
+		</teaching>	
+	</teachings>		
+</student>
